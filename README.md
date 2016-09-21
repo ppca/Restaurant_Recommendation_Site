@@ -1,4 +1,4 @@
-# Restaurant Recommendation Site
+# Restaurant Recommendation Site (HTML, CSS, JavaScript, MySQL, MongoDB, Apache Tomcat)
 
 This is a website that recommends restaurants to its users using Yelp data. The users can search and like restaurants on the 
 site and the site will take these requests, query/update the backend database for relevant info and supply the info to the responses.
